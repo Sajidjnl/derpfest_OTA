@@ -1,3 +1,6 @@
+=============
+  28.06.19
+=============
 - June Patch
 - MotoActions Works
 - Added Kcal Support
@@ -5,3 +8,8 @@
 - Added Spectrum Support
 - Moved to Mayhem Kernel credit: @Ronax
 - Added Ota Support 
+- clang 9.0.4
+- Update some perf configs from caf
+- Added wifi configs
+- Added some volte prop (Volte Icon)
+- and some fixes
