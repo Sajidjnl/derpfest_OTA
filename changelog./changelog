@@ -1,3 +1,15 @@
+==============
+   05.07.19
+==============
+1. July Security Patch
+2. Mayhem Kernel 
+3. Add Material ICons for FP Gestures/Screen off Gestures/Ambient Display
+4. Sanders: thermal-engine: pull changes from tag 'LA.UM.7.6.r1-05300-89xx'
+5. Sanders: rootdir: use all cores for camera daemon 
+6. Sanders: update sensor_def_qcomdev.conf from stock OPS28.65-36-11
+7. Fix gaana Apk Issues
+
+
 =============
   28.06.19
 =============
